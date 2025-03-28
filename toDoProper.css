@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+
+#text{
+    justify-content: center;
+}
+
+button{
+    margin: auto;
+}
